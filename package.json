@@ -1,0 +1,11 @@
+{
+  "name": "6.Routing-HTTPrequest",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.2"
+  },
+  "scripts": {
+    "start": "nodemon 4.Routing2forWeb/app.js"
+  }
+}
